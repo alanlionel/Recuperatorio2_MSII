@@ -1,7 +1,7 @@
 import math
 
 def factorial_apellido(n):
-    """Devuelve el factorial de un número entero no negativo."""
+    """Devuelve el factorial de un nÃºmero entero no negativo."""
     if n < 0:
         return None
     return math.factorial(n)
